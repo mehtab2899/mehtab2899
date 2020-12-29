@@ -1,10 +1,10 @@
-### Hey y'all I'm _**Mehtab Multani**_. 👋
+## Hey y'all I'm **Mehtab Multani**. 👋
 
 [![Website](https://img.shields.io/website?label=mehtabmultani.ml&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mehtabmultani.ml)
 
 ---
 
-## I'm a **Developer**, **DevOps** Enthusiast & **Freelancer** 👨‍💻!!
+### I'm a **Developer**, **DevOps** Enthusiast & **Freelancer** 👨‍💻!!
 
 - 🌱 I’m currently learning everything 😅
 - 👯 I’m looking to collaborate with other developers and learn from them
