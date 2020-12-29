@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 😅
 - 👯 I’m looking to collaborate with other developers and learn from them
-- 🥅 2k21 Goals: Contribute to Open Source projects & create more projects
+- 🥅 2k21 Goals: Contribute to Open Source projects & Create more projects
 - ⚡ Fun fact: I love to convert caffeine into code
 
 ---
@@ -46,16 +46,17 @@
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][kubernetes]
 
-<br />
+<br/>
+<br/>
 <br/>
 <hr>
 
 <details>
- <summary>GitHub Stats</summary>
-
+ <summary>GitHub Stats 📒:</summary>
   <img align="left" alt="Mehtab's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mehtab2899&show_icons=true&hide_border=true" />
-
 </details>
+
+<!-- variables -->
 
 [website]: https://mehtabmultani.ml
 [linkedin]: https://www.linkedin.com/in/mehtab-multani/
