@@ -1,19 +1,19 @@
-### Hey y'all I'm _**Mehtab Multani**_.
+### Hey y'all I'm _**Mehtab Multani**_. 👋
 
 [![Website](https://img.shields.io/website?label=mehtabmultani.ml&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mehtabmultani.ml)
 
 ---
 
-## I'm a Developer, DevOps Enthusiast & Freelancer 👨‍💻!!
+## I'm a **Developer**, **DevOps** Enthusiast & **Freelancer** 👨‍💻!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😅
 - 👯 I’m looking to collaborate with other developers and learn from them
 - 🥅 2k21 Goals: Contribute to Open Source projects & create more projects
 - ⚡ Fun fact: I love to convert caffeine into code
 
 ---
 
-### Connect with me :
+### **Connect with me** 🏄‍♂️:
 
 [<img align="left" alt="mehtabmultani.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mehtab multani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-### Languages and Tools:
+### **Languages and Tools** 🔰:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -49,8 +49,9 @@
 <br />
 <br/>
 <hr>
+
 <details>
- <summary> GitHub Stats</summary>
+ <summary>GitHub Stats</summary>
 
   <img align="left" alt="Mehtab's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mehtab2899&show_icons=true&hide_border=true" />
 
