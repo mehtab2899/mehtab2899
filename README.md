@@ -15,11 +15,11 @@
 
 ### **Connect with me** 🏄‍♂️:
 
-[<img align="left" alt="mehtabmultani.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mehtab multani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mehtab multani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mehtab multani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mehtab multani | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="mehtabmultani.ml" width="22px" src="https://maxcdn.icons8.com/Share/icon/ultraviolet/Network/domain1600.png" />][website]
+[<img align="left" alt="mehtab multani | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="mehtab multani | Twitter" width="22px" src="https://www.obgyn.cam.ac.uk/files/2014/10/twitter-icon-300x300.png" />][twitter]
+[<img align="left" alt="mehtab multani | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
+[<img align="left" alt="mehtab multani | facebook" width="22px" src="https://coindoo.com/wp-content/uploads/2019/01/facebook-icon.png" />][facebook]
 
 <br/>
 <br/>
