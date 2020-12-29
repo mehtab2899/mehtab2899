@@ -22,6 +22,7 @@
 [<img align="left" alt="mehtab multani | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br/>
+<br/>
 
 ### Languages and Tools:
 
@@ -47,7 +48,7 @@
 
 <br />
 <br/>
-
+<hr>
 <details>
  <summary> GitHub Stats</summary>
 
