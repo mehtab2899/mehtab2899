@@ -54,9 +54,8 @@
 
 <details>
  <summary>GitHub Stats 📒:</summary>
-  <img align="left" alt="Mehtab's GitHub Stats" src=[
-    "https://github-readme-stats.vercel.app/api?username=anuraghazra)"
- />
+    ![](https://github.com/mehtab2899/github-stats/blob/master/generated/overview.svg)
+    ![](https://github.com/mehtab2899/github-stats/blob/master/generated/languages.svg)
 </details>
 
 <!-- variables -->
