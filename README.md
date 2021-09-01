@@ -1,10 +1,10 @@
 ## Hey y'all I'm **Mehtab Multani**. 👋
 
-[![Website](https://img.shields.io/website?label=mehtabmultani.ml&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mehtabmultani.tk)
+[![Website](https://img.shields.io/website?label=mehtabmultani.tk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mehtabmultani.tk)
 
 ---
 
-### I'm a **Developer**, **DevOps** Enthusiast & **Freelancer** 👨‍💻!!
+### I'm a **Web Developer**, **Programmer** & **Freelancer** 👨‍💻!!
 
 - 🌱Currently, I’m mastering web development & learning new stuffs! 😅
 - 👯 I’m looking to collaborate with other developers and learn from them!
@@ -15,7 +15,7 @@
 
 ### **Connect with me** 🏄‍♂️:
 
-[<img align="left" alt="mehtabmultani.ml" width="22px" src="https://maxcdn.icons8.com/Share/icon/ultraviolet/Network/domain1600.png" />][website]
+[<img align="left" alt="mehtabmultani.tk" width="22px" src="https://maxcdn.icons8.com/Share/icon/ultraviolet/Network/domain1600.png" />][website]
 [<img align="left" alt="mehtab multani | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="mehtab multani | Twitter" width="22px" src="https://www.obgyn.cam.ac.uk/files/2014/10/twitter-icon-300x300.png" />][twitter]
 [<img align="left" alt="mehtab multani | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
