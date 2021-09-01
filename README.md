@@ -1,15 +1,15 @@
 ## Hey y'all I'm **Mehtab Multani**. 👋
 
-[![Website](https://img.shields.io/website?label=mehtabmultani.ml&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mehtabmultani.ml)
+[![Website](https://img.shields.io/website?label=mehtabmultani.ml&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mehtabmultani.tk)
 
 ---
 
 ### I'm a **Developer**, **DevOps** Enthusiast & **Freelancer** 👨‍💻!!
 
-- 🌱 I’m currently learning everything 😅
-- 👯 I’m looking to collaborate with other developers and learn from them
-- 🥅 2k21 Goals: Contribute to Open Source projects & Create more projects
-- ⚡ Fun fact: I love to convert caffeine into code
+- 🌱Currently, I’m mastering web development & learning new stuffs! 😅
+- 👯 I’m looking to collaborate with other developers and learn from them!
+- 🥅 2k21 Goals: Contribute to Open Source projects & Create more projects!
+- ⚡ Fun fact: I love to convert caffeine into code!
 
 ---
 
@@ -54,7 +54,9 @@
 
 <details>
  <summary>GitHub Stats 📒:</summary>
-  <img align="left" alt="Mehtab's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mehtab2899&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="Mehtab's GitHub Stats" src=[
+    "https://github-readme-stats.vercel.app/api?username=anuraghazra)"
+ />
 </details>
 
 <!-- variables -->
