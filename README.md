@@ -52,11 +52,10 @@
 <br/>
 <hr>
 
-<details>
- <summary>GitHub Stats 📒:</summary>
-    ![](https://github.com/mehtab2899/github-stats/blob/master/generated/overview.svg)
-    ![](https://github.com/mehtab2899/github-stats/blob/master/generated/languages.svg)
-</details>
+<a href="https://github.com/mehtab2899/github-stats">
+ <img src="https://github.com/mehtab2899/github-stats/raw/master/generated/overview.svg" alt="" style="max-width:100%;">
+  <img src="https://github.com/2899/github-stats/raw/master/generated/languages.svg" alt="" style="max-width:100%;">
+</a>
 
 <!-- variables -->
 
