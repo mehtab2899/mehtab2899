@@ -52,10 +52,7 @@
 <br/>
 <hr>
 
-<a href="https://github.com/mehtab2899/github-stats">
- <img src="https://github.com/mehtab2899/github-stats/raw/master/generated/overview.svg" alt="" style="max-width:100%;">
-  <img src="https://github.com/2899/github-stats/raw/master/generated/languages.svg" alt="" style="max-width:100%;">
-</a>
+![Mehtab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtab2899&show_icons=true&theme=radical)
 
 <!-- variables -->
 
