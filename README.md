@@ -6,9 +6,9 @@
 
 ### I'm a **Web Developer**, **Programmer** & **Freelancer** 👨‍💻!!
 
-- 🌱Currently, I’m mastering web development & learning new stuffs! 😅
+- 🌱Currently, I’m mastering front-end web development & learning new stuffs! 😅
 - 👯 I’m looking to collaborate with other developers and learn from them!
-- 🥅 2k21 Goals: Contribute to Open Source projects & Create more projects!
+- 🥅 2k22 Goals: Master Front-end web development & Create more projects!
 - ⚡ Fun fact: I love to convert caffeine into code!
 
 ---
