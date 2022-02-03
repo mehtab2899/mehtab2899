@@ -4,7 +4,7 @@
 
 ---
 
-### I'm a **Web Developer**, **Programmer** & **Freelancer** 👨‍💻!!
+### I'm a **Software Engineer**, **Web Developer** & **Programmer** 👨‍💻!!
 
 - 🌱Currently, I’m mastering front-end web development & learning new stuffs! 😅
 - 👯 I’m looking to collaborate with other developers and learn from them!
