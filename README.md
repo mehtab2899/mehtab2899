@@ -6,7 +6,7 @@
 
 ### I'm a **Software Engineer**, **Web Developer** & **Programmer** 👨‍💻!!
 
-- 🌱Currently, I’m mastering front-end web development & learning new stuffs! 😅
+- 🌱Currently, I’m mastering front-end web development & learning new stuff! 😅
 - 👯 I’m looking to collaborate with other developers and learn from them!
 - 🥅 2k23 Goals: Master front-end web development & Create more projects!
 - ⚡ Fun fact: I love to convert caffeine into code!
