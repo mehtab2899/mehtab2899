@@ -15,8 +15,8 @@
 
 ### **Connect with me** 🏄‍♂️:
 
-[<img align="left" alt="mehtabmultani.tk" width="22px" src="https://maxcdn.icons8.com/Share/icon/ultraviolet/Network/domain1600.png" />][website]
-[<img align="left" alt="mehtab multani | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="mehtabmultani.tk" width="22px" src="https://www.pinclipart.com/picdir/big/211-2116571_website-website-logo-png-transparent-background-clipart.png" />][website]
+[<img align="left" alt="mehtab multani | LinkedIn" width="22px" src="https://img.talkandroid.com/uploads/2015/11/linkedin-app-logo.png" />][linkedin]
 [<img align="left" alt="mehtab multani | Twitter" width="22px" src="https://www.obgyn.cam.ac.uk/files/2014/10/twitter-icon-300x300.png" />][twitter]
 [<img align="left" alt="mehtab multani | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
