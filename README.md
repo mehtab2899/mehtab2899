@@ -8,7 +8,7 @@
 
 - 🌱Currently, I’m mastering front-end web development & learning new stuffs! 😅
 - 👯 I’m looking to collaborate with other developers and learn from them!
-- 🥅 2k22 Goals: Master front-end web development & Create more projects!
+- 🥅 2k23 Goals: Master front-end web development & Create more projects!
 - ⚡ Fun fact: I love to convert caffeine into code!
 
 ---
@@ -19,7 +19,6 @@
 [<img align="left" alt="mehtab multani | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="mehtab multani | Twitter" width="22px" src="https://www.obgyn.cam.ac.uk/files/2014/10/twitter-icon-300x300.png" />][twitter]
 [<img align="left" alt="mehtab multani | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
-[<img align="left" alt="mehtab multani | facebook" width="22px" src="https://coindoo.com/wp-content/uploads/2019/01/facebook-icon.png" />][facebook]
 
 <br/>
 <br/>
@@ -59,7 +58,6 @@
 [linkedin]: https://www.linkedin.com/in/mehtab-multani/
 [twitter]: https://twitter.com/multani_mehtab
 [instagram]: https://www.instagram.com/a_codedreamer/
-[facebook]: https://www.facebook.com/mehtab2899
 [vscode]: https://code.visualstudio.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/html
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
