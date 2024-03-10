@@ -1,6 +1,6 @@
 ## Hey y'all I'm **Mehtab Multani**. 👋
 
-[![Website](https://img.shields.io/website?label=mehtabmultani.tk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mehtabmultani.com)
+[![Website](https://img.shields.io/website?label=mehtabmultani.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mehtabmultani.com)
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 🌱Currently, I’m mastering front-end web development & learning new stuff! 😅
 - 👯 I’m looking to collaborate with other developers and learn from them!
-- 🥅 2k23 Goals: Master front-end web development & Create more projects!
+- 🥅 2k24 Goals: Master full stack web development & Create more stuff!
 - ⚡ Fun fact: I love to convert caffeine into code!
 
 ---
@@ -16,8 +16,8 @@
 ### **Connect with me** 🏄‍♂️:
 
 [<img align="left" alt="mehtabmultani.tk" width="22px" src="https://www.pinclipart.com/picdir/big/211-2116571_website-website-logo-png-transparent-background-clipart.png" />][website]
-[<img align="left" alt="mehtab multani | LinkedIn" width="22px" src="https://img.talkandroid.com/uploads/2015/11/linkedin-app-logo.png" />][linkedin]
-[<img align="left" alt="mehtab multani | Twitter" width="22px" src="https://www.obgyn.cam.ac.uk/files/2014/10/twitter-icon-300x300.png" />][twitter]
+[<img align="left" alt="mehtab multani | LinkedIn" width="22px" src="https://itcnet.gr/wp-content/uploads/2020/09/Linkedin-logo-on-transparent-Background-PNG-.png" />][linkedin]
+[<img align="left" alt="mehtab multani | Twitter" width="22px" src="https://toppng.com/public/uploads/preview/twitter-x-icon-logo-116902890413xbfexhf8l.webp" />][twitter]
 [<img align="left" alt="mehtab multani | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
 <br/>
