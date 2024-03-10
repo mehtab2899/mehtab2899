@@ -1,6 +1,6 @@
 ## Hey y'all I'm **Mehtab Multani**. 👋
 
-[![Website](https://img.shields.io/website?label=mehtabmultani.tk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mehtabmultani.tk)
+[![Website](https://img.shields.io/website?label=mehtabmultani.tk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mehtabmultani.com)
 
 ---
 
@@ -54,10 +54,10 @@
 
 <!-- variables -->
 
-[website]: https://mehtabmultani.tk
+[website]: https://mehtabmultani.com
 [linkedin]: https://www.linkedin.com/in/mehtab-multani/
 [twitter]: https://twitter.com/multani_mehtab
-[instagram]: https://www.instagram.com/a_codedreamer/
+[instagram]: https://www.instagram.com/coder.mehtab/
 [vscode]: https://code.visualstudio.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/html
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
