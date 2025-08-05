@@ -8,7 +8,7 @@
 
 - 🌱Currently, I’m mastering front-end web development & learning new stuff! 😅
 - 👯 I’m looking to collaborate with other developers and learn from them!
-- 🥅 2k24 Goals: Master full stack web development & Create more stuff!
+- 🥅 2k25 Goals: Master full stack web development & Create more stuff!
 - ⚡ Fun fact: I love to convert caffeine into code!
 
 ---
@@ -57,7 +57,7 @@
 [website]: https://mehtabmultani.com
 [linkedin]: https://www.linkedin.com/in/mehtab-multani/
 [twitter]: https://twitter.com/multani_mehtab
-[instagram]: https://www.instagram.com/coder.mehtab/
+[instagram]: https://www.instagram.com/mehtab.iscoding/
 [vscode]: https://code.visualstudio.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/html
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -79,3 +79,4 @@
 [github]: https://github.com/
 [docker]: https://www.docker.com/
 [postman]: https://www.postman.com/
+
